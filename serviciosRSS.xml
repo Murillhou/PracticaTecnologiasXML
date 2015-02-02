@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<serviciosRSS version="1.0">
+  <servicio tipo="XML">
+    <codCat>A</codCat>
+    <url><![CDATA[http://news.google.es/news?output=rss]]></url>
+  </servicio>
+  <servicio tipo="XML">
+    <codCat>B</codCat>
+    <url><![CDATA[http://news.google.es/news?output=rss&topic=w]]></url>
+  </servicio>
+  <servicio tipo="XML">
+    <codCat>C</codCat>
+    <url><![CDATA[http://news.google.es/news?output=rss&topic=n]]></url>
+  </servicio>
+  <servicio tipo="XML">
+    <codCat>D</codCat>
+    <url><![CDATA[http://news.google.es/news?output=rss&topic=b]]></url>
+  </servicio>
+  <servicio tipo="XML">
+    <codCat>E</codCat>
+    <url><![CDATA[http://news.google.es/news?output=rss&topic=s]]></url>
+  </servicio>
+  <servicio tipo="XML">
+    <codCat>F</codCat>
+    <url><![CDATA[http://news.google.es/news?output=rss&topic=t]]></url>
+  </servicio>
+  <servicio tipo="JSON">
+    <codCat>A</codCat>
+    <url><![CDATA[http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&q=http://estaticos.elmundo.es/elmundo/rss/portada.xml]]></url>
+  </servicio>
+  <servicio tipo="JSON">
+    <codCat>B</codCat>
+    <url><![CDATA[http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&q=http://estaticos.elmundo.es/elmundo/rss/internacional.xml]]></url>
+  </servicio>
+  <servicio tipo="JSON">
+    <codCat>C</codCat>
+    <url><![CDATA[http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&q=http://estaticos.elmundo.es/elmundo/rss/espana.xml]]></url>
+  </servicio>
+  <servicio tipo="JSON">
+    <codCat>D</codCat>
+    <url><![CDATA[http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&q=http://estaticos.elmundo.es/elmundo/rss/economia.xml]]></url>
+  </servicio>
+  <servicio tipo="JSON">
+    <codCat>E</codCat>
+    <url><![CDATA[http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&q=http://estaticos.elmundo.es/elmundodeporte/rss/portada.xml]]></url>
+  </servicio>
+  <servicio tipo="JSON">
+    <codCat>F</codCat>
+    <url><![CDATA[http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&q=http://estaticos.elmundo.es/elmundo/rss/ciencia.xml]]></url>
+  </servicio>
+</serviciosRSS>
